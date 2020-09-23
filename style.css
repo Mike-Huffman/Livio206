@@ -173,7 +173,7 @@ footer{
      padding-bottom: 56.25%; /* fine tunes the video positioning */ 
      padding-top: 60px; overflow: hidden;
      margin-bottom: -1px;
-     margin-right: -1px;   
+     margin-right: -5px;   
   }
   
   .video-container iframe,
@@ -263,7 +263,7 @@ footer{
    display: none;
    background: none repeat scroll 0 0 #000000;
     bottom: 0;
-    font-size: 12px;
+    font-size: 18px;
     text-align: center;
     opacity: 1;
     padding:7px 30px 7px;
@@ -308,7 +308,7 @@ footer{
   }
   
   .carousel-caption {
-    font-size: 18px;
+    font-size: 28px;
     padding:15px 20px 15px;
     }
   }
